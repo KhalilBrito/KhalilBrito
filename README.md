@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Khalil
 
-![I am Jr Front-end Developer](https://media.licdn.com/dms/image/C4D16AQHKleaf5or3gA/profile-displaybackgroundimage-shrink_350_1400/0/1658434466385?e=1698278400&v=beta&t=cYMuvxSTMfM42gkmIF1A7Fqffi8WieFVX07DGuFC-84)
+![I am Jr Front-end Developer](https://media.licdn.com/dms/image/C4D16AQHKleaf5or3gA/profile-displaybackgroundimage-shrink_200_800/0/1658434466385?e=1712188800&v=beta&t=bAgLvenMBMn-PjVv8YL9_m58sGdQ3HSgs2OiE-qvx2k)
 
 Hello! My name is Khalil and I'm a Front-end developer with experience in HTML, CSS and JavaScript(React).
 I am looking for work opportunities that allow me to continue learning and growing as a professional.
